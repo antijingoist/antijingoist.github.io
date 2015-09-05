@@ -14,7 +14,7 @@
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<script src="../../rw_common/themes/split/js/modernizr.js"></script>
-	<title>Archives for Jan 2013 | News | AbbieCodes</title>
+	<title>Remove the Title Bar from Gnome 3 on Maximize | News | AbbieCodes</title>
 	
 	
 	
@@ -55,19 +55,14 @@
 					<h3 class="sidebarTitle"></h3>
 					
 					<div id="archives">
-					<div id="blog-archives"><a class="blog-archive-link-enabled" href="archive-aug-2015.html">Aug 2015</a><br /><a class="blog-archive-link-enabled" href="archive-jan-2013.html">Jan 2013</a><br /><a class="blog-archive-link-enabled" href="archive-oct-2012.html">Oct 2012</a><br /><a class="blog-archive-link-enabled" href="archive-sep-2012.html">Sep 2012</a><br /></div><div id="blog-rss-feeds"><a class="blog-rss-link" href="feed.xml" rel="alternate" type="application/rss+xml" title="Abbie Codes">RSS Feed</a><br /></div>
+					<div id="blog-archives"><a class="blog-archive-link-enabled" href="archive-2015.html">2015</a><br /><div class="blog-archive-link-disabled">2014</div><a class="blog-archive-link-enabled" href="archive-2013.html">2013</a><br /><a class="blog-archive-link-enabled" href="archive-2012.html">2012</a><br /><a class="blog-archive-link-enabled" href="archive-2011.html">2011</a><br /><div class="blog-archive-link-disabled">2010</div><a class="blog-archive-link-enabled" href="archive-2009.html">2009</a><br /></div><div id="blog-rss-feeds"><a class="blog-rss-link" href="feed.xml" rel="alternate" type="application/rss+xml" title="Abbie Codes">RSS Feed</a><br /></div>
 					</div><!-- archives -->
 			</div><!-- sidebar -->
 		</aside><!-- aside -->
 			<div id="contentContainer">
 						
-	<div class="blog-archive-headings-wrapper">
-		<div class="blog-archive-month">Jan 2013</div>
-		<div class="blog-archive-link"><a href="../index.html">News</a> | <a href="archive-oct-2012.html">Oct 2012</a></div>
-	</div>
-	
 	<div class="blog-archive-entries-wrapper">
-		<div id="unique-entry-id-2" class="blog-entry"><h1 class="blog-entry-title"><a href="783b6eeea3cf7dcdc1578bf6b901431b-2.html" class="blog-permalink">The New Testament, In OpenDyslexic</a></h1><div class="blog-entry-date">2013.01.03 19:56 </div><div class="blog-entry-body"><img class="imageStyle" alt="P1020004" src="p1020004.jpg" width="150" height="150" />It was originally going to just be just a gift for my wife, but so many wanted one, I worked on making a version I was comfortable selling: a thinner, better, more professional looking New Testament with a table of contents.<span class="blog-read-more"><a href="783b6eeea3cf7dcdc1578bf6b901431b-2.html"> Read More…</a></span></div></div>
+		<div id="unique-entry-id-5" class="blog-entry"><h1 class="blog-entry-title">Remove the Title Bar from Gnome 3 on Maximize</h1><div class="blog-entry-date">2011.05.29 16:04 </div><div class="blog-entry-summary"></div><div class="blog-entry-body">Gnome 3 has a wonderful UI, but one glaring fault. The top system bar serves as a "title bar" for your current application, telling you what app you have open, and allowing you to exit the application from the bar itself. Unfortunately, the default theme, Adwaita, has huge looking titlebars, which don't really get in the way when you are working in normal sized windows. When the windows are maximized though, you have 2 titlebars taking up precious screen realestate: the big Adwaita titlebar, and the system bar up top. <br /><br />Fortunately its real easy to fix this.<br /><br />Open your Adwaita xml (/usr/share/themes/Adwaita/metacity-1/metacity-theme-3.xml) file and change the line that configures the maximized window (name="max"). Add has_title="false" to the "frame_geometry" tag. Then look for "title_vertical_pad", and change "value=9" to value="1". Restart Gnome 3 and maximize a window. *poof* the UI makes sense now.<br /><br />Interestingly, you can still drag down from a menu or button bar to return to a normal sized window and get your duplicate titlebar back. </div></div>
 	</div>
 	
 

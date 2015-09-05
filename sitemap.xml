@@ -2,12 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://isword.org/beta/abbiecodes/index.html</loc>
+		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
 		<loc>http://isword.org/beta/abbiecodes/news/index.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/b317f065f061a039e163024370296b79-0.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/783b6eeea3cf7dcdc1578bf6b901431b-2.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/507305293b00808b5ba389847408b968-1.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/eab2f425d3cc908d9d7d630d1885946e-3.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/0006be93ea4c06950c7f1d1602b69aeb-4.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/028715597357720453f412766083e408-5.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/b1c163629df3f7a30518a628debfde55-8.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/a65617516c5c6faa5bdd5a002a514f06-7.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/4ad42b5f0f90e0aa95dadf360e1796a7-6.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2009.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2015.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2011.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2012.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2013.html</loc>
+		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
 		<loc>http://isword.org/beta/abbiecodes/apps/index.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/a7bd9d4ec40600027cbb282abb62bb67-0.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/7c5691593858cf57148d63ea6c895566-1.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/9fbd1bfc2740fe15a98d33e438d79a77-3.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/e1c5c16034cd4e9ebc5b64858a1ebdee-4.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/dafd72c7a2f9c95f1485dee885c8f320-5.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/67b8d9a993bca9910e1630828bdd0276-2.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/category-webos.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/category-ios.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/category-android.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/category-macos.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/category-windows.html</loc>
+	</url>
+	<url>
+		<loc>http://isword.org/beta/abbiecodes/apps/files/category-web-app.html</loc>
 	</url>
 	<url>
 		<loc>http://isword.org/beta/abbiecodes/designs/index.html</loc>
