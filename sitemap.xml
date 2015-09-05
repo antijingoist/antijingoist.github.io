@@ -1,150 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/index.html</loc>
+		<loc>https://abbiecod.es/index.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/index.html</loc>
+		<loc>https://abbiecod.es/news/index.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/new-app-overlays.html</loc>
+		<loc>https://abbiecod.es/news/files/new-app-overlays.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/the-new-testament-in-OpenDyslexic.html</loc>
+		<loc>https://abbiecod.es/news/files/the-new-testament-in-OpenDyslexic.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/er-browser-adds-support-for-opendyslexic.html</loc>
+		<loc>https://abbiecod.es/news/files/er-browser-adds-support-for-opendyslexic.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/increasing-support-for-opendyslexic.html</loc>
+		<loc>https://abbiecod.es/news/files/increasing-support-for-opendyslexic.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/open-dyslexic-mentions-and-uses.html</loc>
+		<loc>https://abbiecod.es/news/files/open-dyslexic-mentions-and-uses.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/removing-the-title-bar-from-gnome3-on-maximize.html</loc>
+		<loc>https://abbiecod.es/news/files/removing-the-title-bar-from-gnome3-on-maximize.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/announcing-distress-signal-community-run-emergency-notifications.html</loc>
+		<loc>https://abbiecod.es/news/files/announcing-distress-signal-community-run-emergency-notifications.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/customizing-the-command-menu-fader-in-ares.html</loc>
+		<loc>https://abbiecod.es/news/files/customizing-the-command-menu-fader-in-ares.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/make-windows-fonts-readable-with-gdi.html</loc>
+		<loc>https://abbiecod.es/news/files/make-windows-fonts-readable-with-gdi.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2009.html</loc>
+		<loc>https://abbiecod.es/news/files/archive-2009.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2015.html</loc>
+		<loc>https://abbiecod.es/news/files/archive-2015.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2011.html</loc>
+		<loc>https://abbiecod.es/news/files/archive-2011.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2012.html</loc>
+		<loc>https://abbiecod.es/news/files/archive-2012.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/news/files/archive-2013.html</loc>
+		<loc>https://abbiecod.es/news/files/archive-2013.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/index.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/overlays.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/openweb.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/rrbi-silver-wallet.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/junk-silver.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/junk-silver-wallet.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/isword.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/category-webos.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/category-ios.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/category-android.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/category-macos.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/category-windows.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/apps/files/category-web-app.html</loc>
-	</url>
-	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/index.html</loc>
+		<loc>https://abbiecod.es/apps/index.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/sharon-acupuncture-and-wellness.html</loc>
+		<loc>https://abbiecod.es/apps/files/overlays.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/opendyslexic.html</loc>
+		<loc>https://abbiecod.es/apps/files/openweb.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/distress-signal.html</loc>
+		<loc>https://abbiecod.es/apps/files/rrbi-silver-wallet.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/akamom.html</loc>
+		<loc>https://abbiecod.es/apps/files/junk-silver.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/the-wedding-vocalist.html</loc>
+		<loc>https://abbiecod.es/apps/files/junk-silver-wallet.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/liberty-picture-frames.html</loc>
+		<loc>https://abbiecod.es/apps/files/isword.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/archive-2015.html</loc>
+		<loc>https://abbiecod.es/apps/files/archive-aug-2015.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/archive-2012.html</loc>
+		<loc>https://abbiecod.es/apps/files/archive-jun-2011.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/archive-2011.html</loc>
+		<loc>https://abbiecod.es/apps/files/archive-jan-2011.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 	<url>
-		<loc>http://isword.org/beta/abbiecodes/designs/files/archive-2010.html</loc>
+		<loc>https://abbiecod.es/apps/files/archive-oct-2007.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/apps/files/archive-apr-2012.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/apps/files/category-webos.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/apps/files/category-ios.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/apps/files/category-android.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/apps/files/category-macos.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/apps/files/category-windows.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/apps/files/category-web-app.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/index.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/sharon-acupuncture-and-wellness.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/opendyslexic.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/distress-signal.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/akamom.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/the-wedding-vocalist.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/liberty-picture-frames.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/archive-2015.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/archive-2012.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/archive-2011.html</loc>
+		<lastmod>2015-09-05</lastmod>
+	</url>
+	<url>
+		<loc>https://abbiecod.es/designs/files/archive-2010.html</loc>
 		<lastmod>2015-09-05</lastmod>
 	</url>
 </urlset>
