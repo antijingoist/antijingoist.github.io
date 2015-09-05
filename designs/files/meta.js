@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-2011.html":"Archives for 2011","57994b916ba964918f9f24e1599ee062-4.html":"￼","archive-2010.html":"Archives for 2010","5055f60ba2efaad009c02ec486037186-5.html":"￼","366f8a61aaad4c5cebdb3f428be79ef9-1.html":"￼","0cc1954b474556432bedb394eba0a3f8-0.html":"￼","674b2392258e6fa18c1d6d506173b8d6-3.html":"￼","archive-2012.html":"Archives for 2012","archive-2015.html":"Archives for 2015","e11e53e40940e46bec016a44cde7b45c-2.html":"￼"};
+	var websiteMeta = {"archive-2011.html":"Archives for 2011","opendyslexic.html":"￼","liberty-picture-frames.html":"￼","archive-2010.html":"Archives for 2010","akamom.html":"￼","sharon-acupuncture-and-wellness.html":"￼","archive-2012.html":"Archives for 2012","archive-2015.html":"Archives for 2015","distress-signal.html":"￼","the-wedding-vocalist.html":"￼"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
