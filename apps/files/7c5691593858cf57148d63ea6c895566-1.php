@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="RapidWeaver" />
+		
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Ubuntu:300,400,700|Merriweather:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="all" href="../../rw_common/themes/split/consolidated-1.css" />
+		 	
+	
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="../../rw_common/themes/split/js/modernizr.js"></script>
+	<title>openWeb | Software | AbbieCodes</title>
+	
+	
+	
+	
+	
+<script type="text/javascript" async src="http://isword.org/beta/abbiecodes/apps/files/meta.js"></script>
+
+<link rel="stylesheet" type="text/css" href="../rw_common/assets/global.css" />
+</head>
+
+<body>
+	<header class="header">
+		<div id="logo"><a href="http://isword.org/beta/abbiecodes"></a></div>
+
+		<nav class="main-nav">
+				<ul><li><a href="../../" rel="">Home</a></li><li><a href="../../news/" rel="">News</a></li><li><a href="../" rel="" id="current">Software</a></li><li><a href="../../designs/" rel="">Designs</a></li></ul>
+		</nav> <!-- main-nav -->
+	</header>
+
+	<section id="intro">
+		<div id="intro-background"></div>
+		<div id="intro-tagline">
+			<h1>AbbieCodes</h1> 
+		</div> 
+	</section> 
+
+	<main class="content">
+		<section id="subheader">
+		
+				<nav class="secondary-nav">
+					<ul></ul>
+				</nav> <!-- secondary-nav -->
+		</section>
+		
+		<div class="container">
+		<aside id="aside" role="complementary">
+			<div id="sidebar">
+					<h3 class="sidebarTitle"><br>Platform</h3>
+					
+					<div id="archives">
+					<?php include("sidebar-content.html"); ?>
+					</div><!-- archives -->
+			</div><!-- sidebar -->
+		</aside><!-- aside -->
+			<div id="contentContainer">
+						
+	<div class="blog-archive-entries-wrapper">
+		<div id="unique-entry-id-1" class="blog-entry"><h1 class="blog-entry-title">openWeb</h1><div class="blog-entry-date">2012.04.20 19:30 Available for: <span class="blog-entry-category"><a href="category-ios.php">iOS</a></span></div><div class="blog-entry-body"><p style="text-align:center;"><img class="imageStyle" alt="openweb" src="openweb.jpg" width="360" height="480" /><br /><br /><br />Your default iOS Safari web browser is not customizable. And when you want to use a font or style designed for accessibility, this creates a problem.<br /><br />The openWeb browser is a browser that helps solve that problem by giving the internet a more readable style on your iPhone and iPad. <br /><br />The default font is OpenDyslexic: a free open-source font designed to be easy to read, especially for dyslexic readers. This font looks great on retina displays. <br /><br />The colors have slightly less contrast to help prevent glare.<br /><br />Punctuation recoloring: Punctuation marks are now darker, and bolder, to help with readability.<br /><br />You can full-screen the browser at any time to remove distractions by tapping and holding. Return to the default view by tapping and holding again.<br /><br />The application was redesigned in 2015 for the new iOS versions, but has minimal support. It's mostly a free test bed to try out how certain changes could increase readability. If you want a fully supported product, I highly recommend ER Browser. <br /><br /><a href="http://itunes.apple.com/us/app/openweb/id519348697?ls=1&mt=8">http://itunes.apple.com/us/app/openweb/id519348697?ls=1&mt=8</a></p></div></div>
+	</div>
+	
+
+			</div>
+		</div>
+	</main> <!-- content -->
+	
+	<footer id="footer" role="contentinfo" class="clearfix">	
+		<div id="footerContent">
+			<div id="footerText">&copy; 2015 Abbie Gonzalez <a href="#" id="rw_email_contact">Contact Me</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ad";var _rwObsfuscatedHref3 = "min";var _rwObsfuscatedHref4 = "@ab";var _rwObsfuscatedHref5 = "bie";var _rwObsfuscatedHref6 = "cod";var _rwObsfuscatedHref7 = ".es";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7; document.getElementById("rw_email_contact").href = _rwObsfuscatedHref;</script></div>
+		</div><!-- footerContainer -->
+		<div class="clearer"></div>
+	</footer><!-- footer -->
+	<script src="../../rw_common/themes/split/js/yuzoolthemes.js"></script>
+	<script type="text/javascript" src="../../rw_common/themes/split/javascript.js"></script>
+</body>
+</html><!-- END html -->
