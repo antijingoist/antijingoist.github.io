@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-2011.html":"Archives for 2011","opendyslexic.html":"￼","liberty-picture-frames.html":"￼","archive-2010.html":"Archives for 2010","akamom.html":"￼","sharon-acupuncture-and-wellness.html":"￼","archive-2012.html":"Archives for 2012","archive-2015.html":"Archives for 2015","distress-signal.html":"￼","the-wedding-vocalist.html":"￼"};
+	var websiteMeta = {"archive-2012.html":"Archives for 2012","sharon-acupuncture-and-wellness.html":"￼","akamom.html":"￼","distress-signal.html":"￼","toz-cash.html":"￼\n\nThis was an experimental community currency. The idea was to have a local currency backed by both US dollars and silver bullion, and allow the note","opendyslexic.html":"￼","archive-2010.html":"Archives for 2010","liberty-picture-frames.html":"￼","archive-2011.html":"Archives for 2011","archive-2009.html":"Archives for 2009","archive-2015.html":"Archives for 2015","the-wedding-vocalist.html":"￼"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
