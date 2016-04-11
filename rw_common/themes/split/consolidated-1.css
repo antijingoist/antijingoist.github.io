@@ -39,3 +39,7 @@ header {
 	text-decoration: underline;
 	font-weight: bold;
 }
+
+.secondary-nav{
+	display: none;
+}
