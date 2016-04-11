@@ -40,6 +40,6 @@ header {
 	font-weight: bold;
 }
 
-.secondary-nav{
-	display: none;
+nav.secondary-nav {
+	display: none !important;
 }
